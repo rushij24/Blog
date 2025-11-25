@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@600;700&display=swap');
+
+@layer base {
+  body {
+    background-color: #111827;
+    color: #f3f4f6;
+  }
+}
+
+@layer components {
+  .pm-card {
+    background-color: #1f2937;
+    border-radius: 0.5rem;
+    border: 1px solid #374151;
+    transition: all 0.2s;
+    cursor: pointer;
+  }
+  
+  .pm-card:hover {
+    border-color: #4b5563;
+  }
+  
+  .pm-card-light {
+    background-color: #374151;
+    border-radius: 0.5rem;
+    border: 1px solid #4b5563;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  }
+  
+  .pm-button {
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    transition: all 0.2s;
+  }
+  
+  .pm-button-primary {
+    @apply pm-button;
+    background-color: #0052cc;
+    color: white;
+  }
+  
+  .pm-button-primary:hover {
+    background-color: #0041a3;
+  }
+  
+  .pm-button-secondary {
+    @apply pm-button;
+    background-color: #374151;
+    color: #e5e7eb;
+    border: 1px solid #4b5563;
+  }
+  
+  .pm-button-secondary:hover {
+    background-color: #4b5563;
+  }
+  
+  .pm-badge {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
+  }
+  
+  .pm-input {
+    width: 100%;
+    padding: 0.5rem 1rem;
+    background-color: #1f2937;
+    border: 1px solid #4b5563;
+    color: #f3f4f6;
+    border-radius: 0.5rem;
+    outline: none;
+    transition: all 0.2s;
+  }
+  
+  .pm-input:focus {
+    ring: 2px;
+    ring-color: #0052cc;
+    border-color: #0052cc;
+  }
+  
+  .pm-input::placeholder {
+    color: #6b7280;
+  }
+  
+  .kanban-column {
+    background-color: #1f2937;
+    border-radius: 0.5rem;
+    border: 1px solid #374151;
+    padding: 1rem;
+    min-height: 600px;
+  }
+  
+  .kanban-card {
+    background-color: #374151;
+    border-radius: 0.5rem;
+    border: 1px solid #4b5563;
+    padding: 1rem;
+    margin-bottom: 0.75rem;
+    transition: all 0.2s;
+    cursor: pointer;
+  }
+  
+  .kanban-card:hover {
+    border-color: #0052cc;
+  }
+}
