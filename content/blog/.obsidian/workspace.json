@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "why-scope-creep-happens-&-how-to-control-it.md",
+                "file": "why-scope-creep-happens-and-how-to-control-it.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "why-scope-creep-happens-&-how-to-control-it"
+              "title": "why-scope-creep-happens-and-how-to-control-it"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "why-scope-creep-happens-&-how-to-control-it.md",
+                "file": "why-scope-creep-happens-and-how-to-control-it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for why-scope-creep-happens-&-how-to-control-it"
+              "title": "Backlinks for why-scope-creep-happens-and-how-to-control-it"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "why-scope-creep-happens-&-how-to-control-it.md",
+                "file": "why-scope-creep-happens-and-how-to-control-it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from why-scope-creep-happens-&-how-to-control-it"
+              "title": "Outgoing links from why-scope-creep-happens-and-how-to-control-it"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "why-scope-creep-happens-&-how-to-control-it.md",
+                "file": "why-scope-creep-happens-and-how-to-control-it.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of why-scope-creep-happens-&-how-to-control-it"
+              "title": "Outline of why-scope-creep-happens-and-how-to-control-it"
             }
           }
         ]
@@ -201,7 +201,7 @@
   "active": "549de31c24f3e393",
   "lastOpenFiles": [
     "building-high-performing-teams.md",
-    "why-scope-creep-happens-&-how-to-control-it.md",
+    "why-scope-creep-happens-and-how-to-control-it.md",
     "essential-pm-tools-2024.md",
     "getting-started-with-agile.md",
     "mastering-agile-sprint-planning.md"
