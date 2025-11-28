@@ -1,6 +1,6 @@
 ---
 title: Why Scope Creep Happens & How to Control It
-date: 2024-01-25
+date: 2025-11-27
 category: Methodology
 excerpt: Learn what is scope creep, why it happens, how to control it
 status: published
